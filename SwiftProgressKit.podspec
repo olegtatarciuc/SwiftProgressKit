@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/olegtatarciuc/SwiftProgressKit.git", :tag => "#{s.version}",:branch => "master"}
+  s.source       = { :git => "https://github.com/olegtatarciuc/SwiftProgressKit/tree/master/SwiftProgressKit.git", :tag => "#{s.version}",:branch => "master"}
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
